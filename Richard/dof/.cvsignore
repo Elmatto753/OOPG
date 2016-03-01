@@ -1,0 +1,7 @@
+Makefile
+bin
+dof.pro.user
+moc
+obj
+ui_mainwindow.h
+
